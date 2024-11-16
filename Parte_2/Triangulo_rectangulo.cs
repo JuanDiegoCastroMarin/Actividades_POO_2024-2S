@@ -1,5 +1,3 @@
-using System;
-
 public class TrianguloRectangulo
 {
     // Atributo que define la base de un triángulo rectángulo
